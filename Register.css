@@ -1,0 +1,42 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #990000;
+
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #66e0ff;
+}
+body{
+    background-image: url("contact.jpg");
+    background-size: 1400px 800px;
+ }
+
+p{
+    padding-top: 200px;
+    padding-left: 300px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h3{
+padding-left: 300px;
+}
+
+.mytext{
+    width: 40px;
+    height: 25px;
+}
